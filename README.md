@@ -9,9 +9,9 @@ I am a Backend Engineer [in training], and digital artist. I am fascinated in le
 - 😊 Pronouns: He/him
 - 💻 I am currently learning JavaScript, Python [and Solidity].
 - 🎨 I create colorful, surreal artworks.
-- 😊 I am looking to contribute to open-source projects, engage in hackathons, and open to any entry-level opportunities.
+- 🛠 I am looking to contribute to open-source projects, engage in hackathons, and open to any entry-level opportunities.
 - 💼 Job interests: Positions for a Software/Backend Engineer (Intern or Junior level).
-- 📫 You can contact me through emmypresh777@gmail.com .
+- 📩 You can contact me through emmypresh777@gmail.com .
 
 ---
 
